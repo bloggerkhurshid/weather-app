@@ -1,1 +1,1 @@
-Live Preview: https://khurshidalom.netlify.app/
+Live Preview: https://bloggerkhurshid-weather-app.netlify.app/
